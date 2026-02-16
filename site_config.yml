@@ -1,30 +1,16 @@
 ﻿Title: ZOA Charts
 Airports:
   Bravo:
-    - SFO
+    - HNL
   Charlie:
-    - OAK
-    - SJC
-    - SMF
-    - RNO
-    - FAT
-    - MRY
+    - OGG
   Delta:
-    - APC
-    - CCR
-    - CIC
-    - HWD
-    - LVK
-    - MER
-    - MHR
-    - MOD
-    - NUQ
-    - PAO
-    - RDD
-    - RHV
-    - SAC
-    - SCK
-    - SNS
-    - SQL
-    - STS
-    - TRK
+    - KOA
+    - ITO
+    - LIH
+    - MKK
+    - BSF
+    - BKH
+    - HHI
+    - JRF
+    - NGF
